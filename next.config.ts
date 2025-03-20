@@ -6,8 +6,6 @@ const nextConfig: NextConfig = {
       allowedOrigins: [
         "*.flow.cl",
         "*.enormously-rapid-duckling.ngrok-free.app",
-        "localhost:4000",
-        "*",
       ],
     },
   },
